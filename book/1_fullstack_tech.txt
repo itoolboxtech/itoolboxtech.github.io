@@ -1,1 +1,14 @@
+Junior:
+HTML; CSS; and statci project
 
+Middle
+JS; JSDOM;   jQuery, MobileAPP responsive web; JS Object; Server: PHP; Ajax,  Canvas, Mobile Game
+
+Senior:
+nodejs, angularjs, yeoman, grunt and gulp, sass, es6, react, vue.js
+
+1.photoshop； 2. html; 3.css 4. static web, 5. js  6. js dom  7. jquery 8.js 9. htlm5 and css3
+10. mobile web and responsive web
+11. server, php   12.ajax  13. js object   14. Canvas 15. mobile game 16.node.js   17.   angular.js    18. yeoman    19. grunt and gulp
+20. sass, 21 less  22. stylus   23  es6   24.  react.js    25.  vue   26.  corova 27.   phoegap   28.  inoic framework
+29react native   30 wechat js
