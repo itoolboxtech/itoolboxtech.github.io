@@ -1,0 +1,32 @@
+app.js
+
+package.json
+
+
+1. controllers - folder
+   mainctrl.js
+
+2. data - folder
+   1.txt (if no database)
+   546.txt
+   9++9.txt
+
+3. models - folder
+   file.js
+
+4. node_modules
+
+5. public- folder
+   index.html
+   css - folder
+   fonts - folder
+   js - folder
+        bootstrap.js
+        bootstrap.in.js
+        jquery.in.js
+        npm.js
+   
+6. views - folder
+   index.ejs
+   result.ejs
+
