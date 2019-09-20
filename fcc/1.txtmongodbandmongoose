@@ -12,3 +12,20 @@ var personSchema = new Schema({
 });
 
 var Person = mongoose.model('Person', personSchema);
+
+3/12
+var createAndSavePerson = function(done) {
+war person = new Person {name: 
+
+4/12
+var createManyPeople = function(arrayOfPeople, done) {
+    Person.create(arrayOfPeople, function (err, data) {
+      if (err) {
+        done(err);
+      }
+    done(null, data);
+    });
+    
+};
+
+5/12
